@@ -17,6 +17,7 @@ right now, I'm focused on gaining hands-on experience by applying everything I l
 - I only switched my sights to tech in 11th grade - before that, I was set on studying medicine and becoming a psychiatrist (biology and chemistry were my strong suits)
 - not a summer person at all - heat and I don't get along, autumn and winter are >>>
 - my favourite sport is basketball 🏀🇱🇹
+- my birthday falls on January 2nd, which is statistically among the top 6 rarest birthdays in the world 🌌
 
 ✨ connect with me on [LinkedIn](https://www.linkedin.com/in/augustė-bataitytė-078517199)
 
