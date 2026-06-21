@@ -8,7 +8,7 @@ right now, I'm focused on gaining hands-on experience by applying everything I l
 
 ### 💻 tools & tech 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=csharp,python,bash,java,c,postgres,linux,git&perline=8" alt="My Skills"/>
+  <img src="https://skillicons.dev/icons?i=cs,python,bash,java,c,postgres,linux,git&perline=8" alt="My Skills"/>
 </p>
 
 ---
